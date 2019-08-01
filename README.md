@@ -11,3 +11,6 @@ Trabajos realizados en las clases de econometría
 * Practica 6
 * Practica 7
 * Examen
+
+### Programación matemática
+* Practica 1
