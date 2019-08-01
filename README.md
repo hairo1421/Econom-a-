@@ -14,3 +14,7 @@ Trabajos realizados en las clases de econometría
 
 ### Programación matemática
 * Practica 1
+
+### Métodos Númericos
+* Practica 1
+* Practica 2
